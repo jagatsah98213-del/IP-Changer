@@ -52,7 +52,7 @@ Every few seconds script asks TOR for new identity, so your public IP changes.
 
 ⚙️ Installation & Usage
 📱 Android (Termux)
-'''pkg update && pkg upgrade -y'''
+<pre>'''pkg update && pkg upgrade -y'''</pre>
 pkg install git -y
 git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd YOUR-REPO
