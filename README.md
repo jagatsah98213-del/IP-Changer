@@ -54,7 +54,7 @@ Every few seconds script asks TOR for new identity, so your public IP changes.
 📱 Android (Termux)
 pkg update && pkg upgrade -y
 pkg install git -y
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd YOUR-REPO
 bash IpChang-NS.sh
 
@@ -68,7 +68,7 @@ Port: 8118
 🐧 Linux / Kali / Ubuntu
 sudo apt update
 sudo apt install tor privoxy curl netcat -y
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd YOUR-REPO
 bash IpChang-NS.sh
 
@@ -112,14 +112,14 @@ If this helped you:
 ⭐ Star the repo
 🍴 Fork it
 📢 Share with friends
-📺 Subscribe: NS Jagat
+📺 Subscribe: https://www.youtube.com/@NSJAGAT-c
 
 🧑‍💻 Author
 
 NS Jagat
 Cybersecurity & Ethical Hacking Tutorials
-YouTube: NS Jagat
+YouTube: https://www.youtube.com/@NSJAGAT-c
 
 🔍 Keywords (SEO)
 
-tor ip changer, tor identity changer, tor termux, change ip termux, tor proxy android, privoxy tor, tor automation, kali tor script, ethical hacking privacy tool
+tor ip changer, tor identity changer, tor termux, change ip termux, tor proxy android, privoxy tor, tor automation, kali tor script, ethical hacking privacy tool, ns jagat
