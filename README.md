@@ -57,7 +57,7 @@ pkg install git -y
 git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd IP-Changer
 bash IpChang-NS.sh
-  ```
+```
 </pre>
 After Start (Important for browser)
 
