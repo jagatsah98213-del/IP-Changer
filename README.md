@@ -65,8 +65,9 @@ Set WiFi Proxy manually:
 Host: 127.0.0.1  
 Port: 8118
 </pre>
-<pre>
+
 🐧 Linux / Kali / Ubuntu
+<pre>
 sudo apt update
 sudo apt install tor privoxy curl netcat -y
 git clone https://github.com/jagatsah98213-del/IP-Changer.git
