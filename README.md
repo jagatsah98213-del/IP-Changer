@@ -52,12 +52,17 @@ Every few seconds script asks TOR for new identity, so your public IP changes.
 
 ⚙️ Installation & Usage
 📱 Android (Termux)
-<pre>pkg update && pkg upgrade -y
+```bash
+pkg update && pkg upgrade -y
 pkg install git -y
+```
+```bash
 git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd IP-Changer
+```
+```bash
 bash IpChang-NS.sh
-</pre>
+```
 After Start (Important for browser)
 
 Set WiFi Proxy manually:
@@ -67,13 +72,17 @@ Port: 8118
 </pre>
 
 🐧 Linux / Kali / Ubuntu
-<pre>
+```baah
 sudo apt update
 sudo apt install tor privoxy curl netcat -y
+```
+```bash
 git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd IP-Changer
+```
+```bash
 bash IpChang-NS.sh
-</pre>
+```
 ⏱ Choose Rotation Time
 
 When script runs, select:
@@ -86,9 +95,9 @@ When script runs, select:
 📄 Log File
 
 Saved at:
-<pre>
+```bash
 ~/ip_logs.txt
-</pre>
+```
 🛑 Stop Script
 
 Press:
