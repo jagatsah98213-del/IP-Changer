@@ -61,7 +61,7 @@ git clone https://github.com/jagatsah98213-del/IP-Changer.git
 cd IP-Changer
 ```
 ```bash
-bash IpChang-NS.sh
+bash IpChanger.sh
 ```
 After Start (Important for browser)
 
